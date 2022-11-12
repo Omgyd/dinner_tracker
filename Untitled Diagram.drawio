@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2022-11-10T18:59:40.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="udWoKbcf1MIIuPX9frDh" version="20.5.3" type="github">
+  <diagram id="f4Jp_hUka1iusZYyLbX8" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RlihDgCWvfVGKIu6Sl5K-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Homepage&lt;br&gt;Splash Art&lt;br&gt;Login Form&lt;br&gt;Once Logged in Show current Days meal&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RlihDgCWvfVGKIu6Sl5K-2" value="Recipe Page&lt;br&gt;List of Recipes&lt;br&gt;Rating&lt;br&gt;Time to Prepare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RlihDgCWvfVGKIu6Sl5K-3" value="Calendar Page&lt;br&gt;Month/Week/Day view&lt;br&gt;Add/Remove meals&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RlihDgCWvfVGKIu6Sl5K-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="150" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
